@@ -21,6 +21,13 @@ You can change the port number that the development server runs on for hot code 
 
 Edit app.js located in your ./src directory to start coding! GLHF<3
 
+### Wishlist
+- Upgrade to latest version of electron and semantic
+- Add documentation tooling
+- Add Eslint, and Pretty
+- Compile and mangle code with Browserify
+
+
 #### References
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find the most recent user guide to this project [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
 
